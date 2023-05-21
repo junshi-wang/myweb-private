@@ -12,6 +12,13 @@
 /*----------------------------------------*/
 /* Add my CSS to customize the header banner
 /*----------------------------------------*/
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 @import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
 body {
   margin: 0px;
